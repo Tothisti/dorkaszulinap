@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dorkaszulinap/static/css/main.7aef6136.css",
+    "main.js": "/dorkaszulinap/static/js/main.a6d8a6af.js",
+    "static/js/787.28cb0dcd.chunk.js": "/dorkaszulinap/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/dorkaszulinap/index.html",
+    "main.7aef6136.css.map": "/dorkaszulinap/static/css/main.7aef6136.css.map",
+    "main.a6d8a6af.js.map": "/dorkaszulinap/static/js/main.a6d8a6af.js.map",
+    "787.28cb0dcd.chunk.js.map": "/dorkaszulinap/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aef6136.css",
+    "static/js/main.a6d8a6af.js"
+  ]
+}
